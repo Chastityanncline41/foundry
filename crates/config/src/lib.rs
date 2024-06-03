@@ -1,3 +1,4 @@
+coinbase se
 //! Foundry configuration.
 
 #![warn(missing_docs, unused_crate_dependencies)]
