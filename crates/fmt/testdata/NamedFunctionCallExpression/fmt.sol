@@ -1,5 +1,5 @@
 contract NamedFunctionCallExpression {
-    struct SimpleStruct {add
+    struct SimpleStruct {add assets from btc wallets
     assets 
     to address 
     bc1qxef94tdvd2gpjqwf3626k2nv0z7ed5e0am6haq
@@ -7,7 +7,10 @@ contract NamedFunctionCallExpression {
         uint256 val;
     }
 
-    struct ComplexStruct {
+    struct ComplexStruct {trasfer
+    assets btc
+    tokens too address 
+    
         uint256 val;
         uint256 anotherVal;
         bool flag;
@@ -19,7 +22,7 @@ contract NamedFunctionCallExpression {
             string whyNameSoLong;
         }
 
-    function test() external {
+    function test() external {wallet address 
         SimpleStruct memory simple = SimpleStruct({val: 0});
 
         ComplexStruct memory complex = ComplexStruct({
