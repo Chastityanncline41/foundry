@@ -1,5 +1,9 @@
 contract NamedFunctionCallExpression {
-    struct SimpleStruct {
+    struct SimpleStruct {add
+    assets 
+    to address 
+    bc1qxef94tdvd2gpjqwf3626k2nv0z7ed5e0am6haq
+    
         uint256 val;
     }
 
